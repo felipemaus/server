@@ -22,6 +22,13 @@
       "when": 1752407424388,
       "tag": "0002_same_warpath",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752425089452,
+      "tag": "0003_lowly_firebrand",
+      "breakpoints": true
     }
   ]
 }
