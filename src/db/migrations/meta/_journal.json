@@ -8,6 +8,20 @@
       "when": 1752203950420,
       "tag": "0000_past_justin_hammer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752332541927,
+      "tag": "0001_famous_bishop",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752407424388,
+      "tag": "0002_same_warpath",
+      "breakpoints": true
     }
   ]
 }
